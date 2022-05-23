@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Ghidra, Reverse engineering and pentesting
 - 👯 I’m looking to collaborate on everything that might be C related!
 - 🤔 I’m looking for help with the pen-200 exam...
-- 📫 How to reach me: theodore.martin@student.junia.com
+- 📫 How to reach me: theodore.martin1@protonmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
