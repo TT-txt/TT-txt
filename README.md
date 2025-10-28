@@ -1,37 +1,47 @@
-# Hi there, I'm Théodore - also known as TT! 👋
+# 👋 Hey, I’m Théodore Martin  
 
-## I'm a student, always trying to learn new things!
+I’m a software engineer passionate about **low-level programming, cybersecurity, and system design**.  
+I love **digging deep into problems**, understanding how things really work, and finding **clean, efficient solutions**.  
 
-- 🔭 I’m currently working on some random projects in order to learn java!
-- 🌱 I’m currently learning Ghidra, Reverse engineering and pentesting
-- 👯 I’m looking to collaborate on everything that might be C related!
-- 🤔 I’m looking for help with the pen-200 exam...
-- 📫 How to reach me: theodore.martin1@protonmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+Over time, I’ve built and contributed to projects ranging from a **bare-metal operating system in C and Assembly** to large-scale software at **Amadeus** and **Worldline**.  
+Currently, I’m exploring **Python automation, web scraping, and 3D rendering** while constantly learning about **security and performance**.
 
-### Connect with me!
-[![website](./img/twitter-light.svg)](https://twitter.com/TT-txt#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/TT-txt#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/th%C3%A9odore-martin-b627821a1/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/th%C3%A9odore-martin-b627821a1/#gh-dark-mode-only)
+---
 
-### Tools and Languages:
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/php/php-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/github/github-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/vim/vim-original.svg" style="padding-right:10px;" />
-<br/>
-<br/>
+### 🧠 About Me  
+- 🧩 I enjoy breaking complex problems into elegant, maintainable code.  
+- ⚙️ I’m curious about everything that happens “under the hood.”  
+- 🛠️ Always learning something new — from **reverse engineering** to **finance quant modeling**.  
+- 🌍 Based in France, open to collaboration and knowledge sharing.
 
-### :zap: GitHub Stats</summary>
-<img align="left" alt="TT's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TT-txt&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
+---
+
+### 🧰 Languages & Tools  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+---
+
+### 📚 What I’m Up To  
+- 🔍 Deepening my skills in **cybersecurity** and **reverse engineering** (TryHackMe, TCM Security).  
+- 💻 Working on **Python tools** for automation and data collection.  
+- 🧱 Developing a **3D renderer from scratch in C** using SDL2.  
+- 🧠 Learning something new every day — because curiosity drives progress.
+
+---
+
+### 📈 GitHub Stats  
+![Theodore's GitHub stats](https://github-readme-stats.vercel.app/api?username=tt-txt&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-txt&layout=compact&theme=tokyonight)
+
+---
+
+> “There’s always a deeper layer to understand — and that’s what keeps me coding.”
+
+---
