@@ -1,47 +1,77 @@
-# 👋 Hey, I’m Théodore Martin  
+```
+╔═══════════════════════════════════════════════════════════╗
+║  theodore@exqd:~$ whoami                                  ║
+║  > Théodore Martin — Software Engineer                    ║
+║  > From spec to production. No shortcuts.                 ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-I’m a software engineer passionate about **low-level programming, cybersecurity, and system design**.  
-I love **digging deep into problems**, understanding how things really work, and finding **clean, efficient solutions**.  
+## Hey, I'm Thed 👋
 
-Over time, I’ve built and contributed to projects ranging from a **bare-metal operating system in C and Assembly** to large-scale software at **Amadeus** and **Worldline**.  
-Currently, I’m exploring **Python automation, web scraping, and 3D rendering** while constantly learning about **security and performance**.
+Software engineer based in France. I split my time between industrial **C++ at Amadeus** and independent **full-stack / AI projects** under [exqd-services](https://exqd.org/projects).
 
----
-
-### 🧠 About Me  
-- 🧩 I enjoy breaking complex problems into elegant, maintainable code.  
-- ⚙️ I’m curious about everything that happens “under the hood.”  
-- 🛠️ Always learning something new — from **reverse engineering** to **finance quant modeling**.  
-- 🌍 Based in France, open to collaboration and knowledge sharing.
+I like systems that actually hold up in production — whether that's a multi-tenant SaaS serving real users, a rendering pipeline written from scratch, or a Discord bot that's been running unattended for months.
 
 ---
 
-### 🧰 Languages & Tools  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+### 🔩 What I'm working on
+
+- **[KEYS CRM](https://exqd.org/projects/real-estate-saas)** — AI-powered multi-tenant SaaS for real-estate professionals. Multi-tenant isolation, LLM agents, voice capture, property map, credit wallet. TypeScript / Next.js / PostgreSQL / Railway.
+- **[Quivya](https://quivya.io)** — A QuizzUp successor. Solo quiz modes, per-category ranking, profile progression, weekly theme, full admin panel. React Native / Expo / Supabase.
+- **Amadeus** — Industrial C++ on large-scale travel systems. EDIFACT processing, legacy analysis, translation layer design, thousands of Python tests. SAFe / Jenkins.
 
 ---
 
-### 📚 What I’m Up To  
-- 🔍 Deepening my skills in **cybersecurity** and **reverse engineering** (TryHackMe, TCM Security).  
-- 💻 Working on **Python tools** for automation and data collection.  
-- 🧱 Developing a **3D renderer from scratch in C** using SDL2.  
-- 🧠 Learning something new every day — because curiosity drives progress.
+### 🛠 Stack
+
+```json
+{
+  "systems":    ["C++", "C", "Linux", "Memory management", "EDIFACT"],
+  "fullstack":  ["TypeScript", "Next.js", "Node.js", "PostgreSQL", "Prisma", "Docker", "Railway"],
+  "ai":         ["Anthropic Claude", "LLM integration", "Gladia", "voice pipelines"],
+  "automation": ["Python", "Selenium", "web scraping", "anti-bot", "data pipelines"],
+  "security":   ["Reverse engineering", "protocol analysis", "pentesting (lab)"]
+}
+```
 
 ---
 
-### 📈 GitHub Stats  
-![Theodore's GitHub stats](https://github-readme-stats.vercel.app/api?username=tt-txt&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-txt&layout=compact&theme=tokyonight)
+### 🚀 Selected Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Multi-tenant Real Estate SaaS](https://exqd.org/projects/real-estate-saas) | Full-lifecycle SaaS — requirements to prod, solo | TS, Next.js, Prisma, LLM, Railway |
+| [Quivya](https://quivya.io) | Quiz platform, QuizzUp successor | React Native, Expo, Supabase |
+| [Strictly Sealed — Discord Bot](https://exqd.org/projects/strictly-sealed-discord-bot) | 10k-member community bot, live in 12h | Python, discord.py, SQLite |
+| [TCG Data Platform](https://exqd.org/projects/tcg-data-platform) | Market data + pop reports + Discord delivery | Python, Selenium |
+| [PSA-to-eBay Inventory Sync](https://exqd.org/projects/ebay-psa-automation) | Thousands of listings automated | Python, Selenium, eBay API |
+| [3D Software Renderer](https://exqd.org/projects/3d-renderer-c) | Full pipeline in C — no GPU, no OpenGL | C, SDL2 |
+| [Insurance Automation Pipeline](https://exqd.org/projects/insurances) | 12 providers × 2 form types, runs on AWS | Python, Selenium, AWS |
 
 ---
 
-> “There’s always a deeper layer to understand — and that’s what keeps me coding.”
+### 🎓 Background
+
+- **Engineering degree** — ISEN Lille (CS, Finance & Cybersecurity tracks)
+- **MSc Quantitative Finance** — IAE Lille (derivatives, modeling, AMF certified)
+- **Cambridge FCE** — B2 certified, C1 in practice
+- Currently pursuing **PT1 cybersecurity certification**
 
 ---
+
+### 📡 Find me
+
+[![Portfolio](https://img.shields.io/badge/exqd.org-projects-1F4E5F?style=flat-square&logo=astro&logoColor=white)](https://exqd.org/projects)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-théodore--martin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theodore-martin-/)
+[![Email](https://img.shields.io/badge/Email-theodore.martin@ik.me-E55D87?style=flat-square&logo=protonmail&logoColor=white)](mailto:theodore.martin@ik.me)
+
+---
+
+```
+theodore@exqd:~$ ./deploy_solution.sh
+Requirements gathered...     [OK]
+Architecture validated...    [OK]
+Security hardened...         [OK]
+Deployed to production...    [OK]
+_
+```
