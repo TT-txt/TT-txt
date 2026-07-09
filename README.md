@@ -16,7 +16,7 @@ I like systems that actually hold up in production — whether that's a multi-te
 
 ### 🔩 What I'm working on
 
-- **[KEYS CRM](https://exqd.org/projects/real-estate-saas)** — AI-powered multi-tenant SaaS for real-estate professionals. Multi-tenant isolation, LLM agents, voice capture, property map, credit wallet. TypeScript / Next.js / PostgreSQL / Railway.
+- **[Real Estate SaaS](https://exqd.org/projects/real-estate-saas)** — AI-powered multi-tenant SaaS for real-estate professionals. Multi-tenant isolation, LLM agents, voice capture, property map, credit wallet. TypeScript / Next.js / PostgreSQL / Railway.
 - **[Quivya](https://quivya.io)** — A QuizzUp successor. Solo quiz modes, per-category ranking, profile progression, weekly theme, full admin panel. React Native / Expo / Supabase.
 - **Amadeus** — Industrial C++ on large-scale travel systems. EDIFACT processing, legacy analysis, translation layer design, thousands of Python tests. SAFe / Jenkins.
 
